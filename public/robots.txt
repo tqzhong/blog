@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://tqzhong.github.io/my-blog/sitemap.xml
