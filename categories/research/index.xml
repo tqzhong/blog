@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tqzhong.github.io/my-blog/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大模型post-training方法</title>
-      <link>https://tqzhong.github.io/my-blog/posts/blog1/</link>
+      <link>https://tqzhong.github.io/my-blog/posts/llm-post-training/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://tqzhong.github.io/my-blog/posts/blog1/</guid>
+      <guid>https://tqzhong.github.io/my-blog/posts/llm-post-training/</guid>
       <description>&lt;!-- 这篇主要从方法上梳理一下目前大模型后训练（post-training）的方法
 
 ### Bradley-Terry model
