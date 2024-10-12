@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rs&#39; Log</title>
-    <link>http://localhost:1313/my-blog/</link>
+    <link>https://tqzhong.github.io/my-blog/</link>
     <description>Recent content on Rs&#39; Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tqzhong.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大模型post-training方法</title>
-      <link>http://localhost:1313/my-blog/posts/llm-post-training/</link>
+      <link>https://tqzhong.github.io/my-blog/posts/llm-post-training/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/my-blog/posts/llm-post-training/</guid>
+      <guid>https://tqzhong.github.io/my-blog/posts/llm-post-training/</guid>
       <description>&lt;h2 id=&#34;这是一条测试样例&#34;&gt;这是一条测试样例&lt;/h2&gt;
 &lt;h3 id=&#34;bradley-terry-model&#34;&gt;Bradley-Terry model&lt;/h3&gt;
 &lt;p&gt;奖励模型一般基于BT model实现，$h_t$
@@ -26,7 +26,7 @@ $$&lt;/p&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
 &lt;li&gt;你好
-&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/my-blog/my-blog/images/2024-10-09-llm-post-training/image1.png&#34; alt=&#34;alt text&#34;  /&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://tqzhong.github.io/my-blog/my-blog/images/2024-10-09-llm-post-training/image1.png&#34; alt=&#34;alt text&#34;  /&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;rlhf&#34;&gt;RLHF&lt;/h3&gt;
