@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Rs&#39; Log</title>
+    <link>https://tqzhong.github.io/my-blog/posts/</link>
+    <description>Recent content in Posts on Rs&#39; Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tqzhong.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大模型post-training方法</title>
+      <link>https://tqzhong.github.io/my-blog/posts/llm-post-training/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://tqzhong.github.io/my-blog/posts/llm-post-training/</guid>
+      <description>&lt;h2 id=&#34;这是一条测试样例&#34;&gt;这是一条测试样例&lt;/h2&gt;
+&lt;h3 id=&#34;bradley-terry-model&#34;&gt;Bradley-Terry model&lt;/h3&gt;
+&lt;p&gt;奖励模型一般基于BT model实现，$h_t$
+$$
+P(i &amp;gt; j) = \frac{e^{\beta_i}}{e^{\beta_i} + e^{\beta_j}}
+$$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;torch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;torch&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;rand&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;shape&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;你好&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;你好
+&lt;img loading=&#34;lazy&#34; src=&#34;https://tqzhong.github.io/my-blog/my-blog/images/2024-10-09-llm-post-training/image1.png&#34; alt=&#34;alt text&#34;  /&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;rlhf&#34;&gt;RLHF&lt;/h3&gt;
+&lt;p&gt;$$
+\min_{\theta} \mathbb{E}\left[ \text{Loss}(\theta) \right]
+$$&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
