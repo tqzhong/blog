@@ -162,3 +162,16 @@
 }
 
 
+.hero-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+}
